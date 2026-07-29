@@ -7,3 +7,4 @@ editor: source
 | Name | GitHub username | Fun fact |
 |------|-----------------|----------|
 |Emily Somerset | emilysomerset | I love statistics! |
+|Justin Slater | justinslater | kitties |
