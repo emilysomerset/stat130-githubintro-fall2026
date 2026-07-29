@@ -8,3 +8,5 @@ editor: source
 |------|-----------------|----------|
 |Emily Somerset | emilysomerset | I love statistics! |
 |Jane Doe | janedoe | I climbed 3 mountains |
+|Justin Slater | justinslater | kitties |
+
